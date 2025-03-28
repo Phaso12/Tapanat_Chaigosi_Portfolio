@@ -2192,10 +2192,17 @@ input, select, textarea {
 	}
 
 		#header header h1 {
-			font-size: 2.25em;
+			font-size: 4em;
 			line-height: 1.25em;
 			margin-bottom: 0;
 		}
+
+		h2 {
+			font-size: 2.00em;
+			line-height: 1.25em;
+			font-weight: normal;
+			color: #666666;
+		}		
 
 		#header header p {
 			margin-top: 1.25em;
